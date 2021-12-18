@@ -2,7 +2,7 @@
 
 This is a Single Page Simple App For Interview Creation Portal where admins can create interviews by selecting participants, interview start time and end time.
 
-![Screenshot](SPA UI.png)
+![alt text](https://github.com/trijal-bhardwaj/Scaler-Interview_Creation_Portal/blob/master/SPA UI.png?raw=true)
 
 ## Basic Functionalities
 
@@ -56,7 +56,7 @@ $ npm install (To Install All Dependencies)
 
 ### Sample SQL Queries
 
-![Screenshot](Sample SQL Queries.png)
+![alt text](https://github.com/trijal-bhardwaj/Scaler-Interview_Creation_Portal/blob/master/Sample SQL Queries.png?raw=true)
 
 
 #### 3. Run the Server
@@ -74,9 +74,9 @@ This will Start the Server. Now, Go to **/FrontEnd-SPA** Folder & Open **index.h
 NodeMailer is Used to Send the E-Mails For Schedules/Updated/Cancelled Interviews. Change the USER and PASSWORD and Set It to the Credentials of the E-Mail from Which You Want to Send Out the E-Mails.
 
 
-![Screenshot](NodeMailer E-Mail ID PassWord Change.png)
+![alt text](https://github.com/trijal-bhardwaj/Scaler-Interview_Creation_Portal/blob/master/NodeMailer E-Mail ID PassWord Change.png?raw=true)
 
 ### Sample E-Mail 
 
-![Screenshot](Scheduled Interview E-Mail.png)
+![alt text](https://github.com/trijal-bhardwaj/Scaler-Interview_Creation_Portal/blob/master/Scheduled Interview E-Mail.png?raw=true)
 
